@@ -11,15 +11,13 @@
     }
 */
 
+
 /**
  * Normal
  * * Comentário destacado
  * ! COmentário de alerta
  * ? Dúvida
  * TODO: A fazer
- * @param nome Informar o nome da pessoa
- *
- *
- *
+ * @param $nome Informar o nome da pessoa
  *
  */
