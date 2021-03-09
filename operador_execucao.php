@@ -1,7 +1,7 @@
 <?php
 
 
-$resultado  = `dir`;
+$resultado  = `ping  dev.umeet.com.br`;
 
 $oem = sapi_windows_cp_get('oem');
 
